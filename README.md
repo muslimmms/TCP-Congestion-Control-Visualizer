@@ -21,7 +21,7 @@ This project compares and visualizes the behavior of three TCP congestion contro
 - **Python**: `pandas`, `matplotlib`
 - **iperf3**: For bandwidth testing
 - **tc (netem)**: To simulate real-world network impairments
-- **VirtualBox**: For creating isolated test VMs
+- **VMWare Workstation Pro**: For creating isolated test VMs
 
 ---
 
