@@ -24,6 +24,9 @@ This project compares and visualizes the behavior of three TCP congestion contro
 - **VMWare Workstation Pro**: For creating isolated test VMs
 
 ---
+## Results
+![image](https://github.com/user-attachments/assets/f24f0f9c-f25d-4626-a8fa-3c506032088f)
+
 
 ## Setup Instructions
 
