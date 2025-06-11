@@ -1,6 +1,6 @@
 # TCP Congestion Control Visualizer
 
-This project compares and visualizes the behavior of three TCP congestion control algorithms — **Reno**, **Cubic**, and **BBR** — under simulated adverse network conditions. It uses real transfer data from `iperf3` and visualizes throughput and retransmissions using Python.
+This project compares and visualizes the behavior of three TCP congestion control algorithms (**Reno**, **Cubic**, and **BBR**) under simulated adverse network conditions. It uses real transfer data from `iperf3` and visualizes throughput and retransmissions using Python.
 
 ---
 
